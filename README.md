@@ -1,4 +1,4 @@
 # nodejs_practice
 
-nodejsdan Nodemon o'rnatilgan `npm init` qilib ishga tushirishingiz mumkin!.
+nodejs npmdan  Nodemon o'rnatilgan `npm init` qilib ishga tushirishingiz mumkin!.
 
