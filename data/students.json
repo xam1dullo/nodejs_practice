@@ -1,1 +1,18 @@
-{"abdulla":{"group":1,"id":1}}
+{
+  "Atoullo": {
+    "id":1,
+    "group": 1
+  },
+  "Behruz": {
+    "id":2,
+    "group": 1
+  },
+  "Bilal": {
+    "id":3,
+    "group": 2
+  },
+  "Abdul": {
+    "id":4,
+    "group": 2
+  }
+}
