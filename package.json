@@ -1,0 +1,17 @@
+{
+  "name": "events-and-http-module",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "keywords": [],
+  "description": ""
+}
