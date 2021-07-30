@@ -1,1 +1,10 @@
-{"xamidullo":{"group":1,"id":3},"abdulla":{"group":1,"id":2}}
+{
+  "Akhmad": {
+    "id": 1,
+    "group": 1
+  },
+  "Muhammad": {
+    "id":2,
+    "group": 2
+  }
+}
