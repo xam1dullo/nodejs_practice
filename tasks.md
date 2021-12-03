@@ -5,11 +5,13 @@
 
 # Amaliyot
 1. agar path `/students` get method quyidagicha response jo'natilsin
-```{Atoullo: {
+```
+{Atoullo: {
       id: 1,
      group: 1,
       mentor: "Akhmad",
-     }}```
+  }}
+```
 2. add students
 3. Remove students
 4. Mentors CRD
